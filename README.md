@@ -10,7 +10,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ## Authors
  - Vinícius da Silva Dias <a href="https://www.linkedin.com/in/weinstag/" title="Linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="16px" height="16px"></a> <a href="https://discord.gg/YKsWQadWX" title="Discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="16px" height="16px"></a> 
