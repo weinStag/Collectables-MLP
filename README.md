@@ -12,8 +12,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## Authors
- - Vinícius da Silva Dias <a href="https://www.linkedin.com/in/weinstag/" title="Linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="16px" height="16px"></a> <a href="https://discord.gg/YKsWQadWX" title="Discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="16px" height="16px"></a> 
- - Mateus da Silva Romani <a href="https://www.linkedin.com/in/mateus-r-29463b138/" title="Linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="16px" height="16px"></a> <a href="https://discord.gg/YKsWQadWX" title="Discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="16px" height="16px"></a>
+ - Vinícius da Silva Dias <a href="https://www.linkedin.com/in/weinstag/" title="Linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="16px" height="16px"></a> <a href="https://discord.gg/YKsWQadWX" title="Discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="16px" height="16px"></a> <a href="https://github.com/weinStag" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-octocat.svg" alt="GitHub" width="16px" height="16px"></a>
+ - Mateus da Silva Romani <a href="https://www.linkedin.com/in/mateus-r-29463b138/" title="Linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="16px" height="16px"></a> <a href="https://discord.gg/YKsWQadWX" title="Discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="16px" height="16px"></a> <a href="https://github.com/RomaniMateus" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-octocat.svg" alt="GitHub" width="16px" height="16px"></a>
 
 ## Coordinator and university
  - Professor Dr. Fabio Augusto Faria
