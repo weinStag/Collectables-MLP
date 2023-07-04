@@ -20,7 +20,7 @@
  - UNIFESP (Universidade Federal de São Paulo)
 
 ## Important Links
-Presentation Video 🎬: [Link](https://www.youtube.com)
+Presentation Video 🎬: [Link](https://youtu.be/oR0DeZRHHHk)
 <br>
 Presentation Slides 🖥: [Link](https://docs.google.com/presentation/d/1zRJwIjo1zNF-4iQJLET_PU__Oj06Uxylkto_8g2JZ9U/edit?usp=sharing)
 
