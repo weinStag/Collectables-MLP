@@ -35,4 +35,4 @@ The log of previous versions and deploys of the project can be visualized on the
  - Release-v3.0
  - ...
    
-wich grants access to code and paper history and development process.
+More details can be found on the pull requests for the releases wich grants access to code and paper history and development process.
